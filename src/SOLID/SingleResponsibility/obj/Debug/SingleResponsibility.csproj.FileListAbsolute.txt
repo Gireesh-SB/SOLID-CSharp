@@ -1,1 +1,0 @@
-D:\Development Projects\GitHub\SOLID-CSharp\src\SOLID\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
